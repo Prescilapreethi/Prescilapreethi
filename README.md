@@ -6,4 +6,6 @@ blob.bash(meta.ai)
 
 blob.bash.rollup(meta.ai)
 
+
+SHA.rolled
 }
