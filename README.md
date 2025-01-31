@@ -2,4 +2,6 @@ https://github.com/Prescilapreethi/Prescilapreethi/blob/main/README.md@prescilap
 
 {
 
-blob.bash
+blob.bash(meta.ai)
+
+}
