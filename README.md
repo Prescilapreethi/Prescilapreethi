@@ -4,4 +4,6 @@ https://github.com/Prescilapreethi/Prescilapreethi/blob/main/README.md@prescilap
 
 blob.bash(meta.ai)
 
+blob.bash.rollup(meta.ai)
+
 }
