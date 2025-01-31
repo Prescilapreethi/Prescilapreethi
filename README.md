@@ -19,3 +19,10 @@ public.main(Threads)
 {
 Ameriprise.enterprice(Save.pullrequest)
 }
+
+Ameriprice.chennai.loc(ditched).local()
+
+{
+
+rollup.metaai(Ameriprice)
+}
